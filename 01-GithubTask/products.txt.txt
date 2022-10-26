@@ -1,0 +1,1 @@
+Hi, I'm Fezile. I am currently trying to do my homework. I've already logged into my GitHub account. Then I downloaded git and introduced my account. Then I created a repo called AP207CodeAcademy. Next I created a folder called 01-GithubTask and in it I created a text document products.txt. Finally I added all of them to the repo. 
